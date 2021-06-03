@@ -1,0 +1,1 @@
+Enter a number, get a string as a result. Works by the rules of FizzBuzz.
